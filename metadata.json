@@ -1,0 +1,7 @@
+{
+  "name": "Apex Dynamics Construction",
+  "description": "A high-end, mobile-first construction company website featuring 3D-animated UI elements, a project showcase, and a premium gold-on-slate professional theme.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
